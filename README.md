@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mimiloveynona
 - 👀 I’m interested in cheering,baseketball,soccor and tech
-- 🌱 I’m currently learning angles,
+- 🌱 I’m currently learning angles,writting
 - 💞️ I’m looking to collaborate on friends who like to learn
 <!---
 mimiloveynona/mimiloveynona is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
